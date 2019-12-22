@@ -34,7 +34,7 @@ const TYPE_COLORS = {
     water: '#3295f6',
 };
 
-export default class Caracteristicas extends Component {
+export default class ChracterPage extends Component {
     // Configuração do header do navigator
     static navigationOptions = {
         title: 'Características',
