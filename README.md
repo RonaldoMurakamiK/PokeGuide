@@ -1,4 +1,8 @@
-# PokeGuide
+<h1 align="center">
+  <a href="https://facebook.github.io/react-native/">
+    React Native
+  </a>
+</h1>
 
 Esta aplicação foi pensada na pratica de um desenvolvimento front-end simples e moderno, com grades, variações de cores, etc. Ademais, o foco principal deu-se na prática e evolução no consumo de APIs com o axios. Por fim, o projeto é o resultado de todo um treino para o crescimento na linguagem, uma grande base em estilos, navagações, requisições, entre outros. <br/><br/>
 
