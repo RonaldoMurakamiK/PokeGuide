@@ -16,7 +16,7 @@ React Native version: 0.59.9.<br/><br/>
 Image 1 (Initial screen);<br/>
 Image 2 (Main screen);<br/>
 Image 3 (Main screen - search by name);<br/>
-Image 4 Main screen - search by ID);<br/>
+Image 4 (Main screen - search by ID);<br/>
 Image 5, 6, 7 and 8 (Characteristics screen - selected pokemon).<br/><br/>
 
 
