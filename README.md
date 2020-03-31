@@ -2,8 +2,9 @@
     PokeGuide
 </h1>
 
-# 📋 Resumo
-Esta aplicação foi pensada na pratica de um desenvolvimento front-end simples e moderno, com grades, variações de cores, etc. Ademais, o foco principal deu-se na prática e evolução no consumo de APIs com o axios. Por fim, o projeto é o resultado de todo um treino para o crescimento na linguagem, uma grande base em estilos, navagações, requisições, entre outros. <br/><br/>
+# 📋 ABSTRACT
+<strong>English:<strong/> This application was conceived in the practice of a simple and modern front-end development, with grids, color variations, etc. In addition, the main focus was on practice and evolution in the consumption of APIs with axios. Finally, the project is the result of a whole training for language growth, a great base in styles, navigation, requisitions, among others.
+Português: Esta aplicação foi pensada na pratica de um desenvolvimento front-end simples e moderno, com grades, variações de cores, etc. Ademais, o foco principal deu-se na prática e evolução no consumo de APIs com o axios. Por fim, o projeto é o resultado de todo um treino para o crescimento na linguagem, uma grande base em estilos, navagações, requisições, entre outros. <br/><br/>
 
 # 📖 Dados do projeto
 Projeto em React Native consumindo a API "PokeApi" para criar uma pokedex.<br/> 
